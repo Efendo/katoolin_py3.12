@@ -1,3 +1,4 @@
+# THIS IS A FORK OF THE ORIGINAL KATOOLIN TO MAKE IT WORK WITH PYTHON 3.12 AND BASICALLY ANY OTHER 3.0 VERSION OF PYTHON
 ![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
 # katoolin
 Automatically install all Kali linux tools
@@ -8,8 +9,8 @@ Automatically install all Kali linux tools
 - Install Kali linux tools
 
 # Requirements
-- Python 2.7
-- An operating system (tested on Ubuntu)
+- Python 3.12 (Recommended
+- An operating system (tested on Debian)
 
 # Installation
 - sudo su
